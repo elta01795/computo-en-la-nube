@@ -17,7 +17,7 @@ int main() {
     /* se crea variable i de tipo int que servirá para iterar N* en el bucle for*/
 	int i;
 
-    /*Se crea loop for, se hace uso de la variable i para iniciar la iteración con valor 0 hasta 1000 y se va incrementando en 1*/
+    /*Se crea loop for, se hace uso de la variable i para iniciar la iteración con valor 0 hasta 999 y se va incrementando en 1*/
 	for(i = 0; i < N; i++)
 	{
 		/*Se accede a la posición i en el arreglo a y se asigna el valor de 1*10*/
